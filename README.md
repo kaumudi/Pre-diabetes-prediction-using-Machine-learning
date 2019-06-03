@@ -1,0 +1,2 @@
+# Pre-diabetes-prediction-using-Machine-learning
+This jupyter notebook code predicts whether a person has pre-diabetes or diabetes. I have used NHANES data to train and test the model using various classifiers. An extensive feature engineering has been done to determine the most relevant features to diabetes. Brought down 1645 features to 25 most relevant features using various machine learning techniques. I want to improve this further. Please feel free to fork, merge the code.
